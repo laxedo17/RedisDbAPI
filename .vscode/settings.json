@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": " 'Cascadia Code'",
+    "editor.fontSize": 20
+}
